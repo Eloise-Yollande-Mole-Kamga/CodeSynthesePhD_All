@@ -1,0 +1,1 @@
+Ce dossier exécute tous les algos avec les instances d'Alejandro : il faut utiliser submitdataAl.sh
